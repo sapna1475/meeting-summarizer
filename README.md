@@ -2,8 +2,7 @@
 
 Demo - https://youtu.be/LOaLXffZ8Hk
 
-Transcribes meeting audio and generates structured, action-oriented summaries —
-built entirely on free-tier APIs.
+Transcribes meeting audio and generates structured, action-oriented summaries.
 
 ## How it works
 
