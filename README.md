@@ -1,11 +1,9 @@
 # Meeting Summarizer
 
-Transcribes meeting audio and generates structured, action-oriented summaries —
-built entirely on free-tier APIs.
-
-
 Demo - https://youtu.be/LOaLXffZ8Hk
 
+Transcribes meeting audio and generates structured, action-oriented summaries —
+built entirely on free-tier APIs.
 
 ## How it works
 
