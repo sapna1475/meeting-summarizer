@@ -12,13 +12,13 @@ Audio file
 [Chunking]  — splits long recordings into ≤10-min pieces (Groq's 25MB limit)
    │
    ▼
-[ASR: Groq Whisper API]  — whisper-large-v3-turbo, free tier
+[ASR: Groq Whisper API]  — whisper-large-v3-turbo
    │
    ▼
 Transcript (stitched from chunks)
    │
    ▼
-[LLM: Groq Llama API]  — llama-3.3-70b-versatile, free tier
+[LLM: Groq Llama API]  — openai/gpt-oss-120b
    │  (map-reduce summarization for long transcripts)
    ▼
 Structured JSON: overview, key_decisions, action_items, open_questions
